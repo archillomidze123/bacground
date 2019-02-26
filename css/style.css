@@ -50,9 +50,47 @@
 .divaider{
 	width: 1170px;
 	margin: 0 auto;
+	padding-top: 60px;
 }
 .bi{
-	background-image:url(../img/background.jpg);
+	background-image:url(../img/motoo.jpeg);
 	width: 1170px;
-	height: 1500px;
+	height: 500px;
+	    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.mapdiv{
+	width: 1170px;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+iframe{
+	width: 100%
+}
+.section2{
+	background-color: #363E97;
+	padding-bottom: 90px;
+	padding-top: 30px;
+}
+.section-div2-2 h2{
+	font-size: 28px;
+	color: #fff;
+	margin-bottom: 30px;
+}
+.diva{
+	width: 570px;
+	height: 320px;
+	background-color: #fff;
+}
+.diva p{
+	text-align: center;
+	margin-top: 150px;
+
+}
+.dia{
+	    display: flex;
+     justify-content: space-between; 
+    width: 1170px;
+    margin: 0 auto;
 }
